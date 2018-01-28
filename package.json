@@ -1,0 +1,11 @@
+{
+  "name": "html-webpack-sass-boilerplate",
+  "version": "0.0.1",
+  "description": "A setup for a project that uses Sass and ES6 with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Górzański",
+  "license": "ISC"
+}
