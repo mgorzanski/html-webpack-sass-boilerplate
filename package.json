@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-sass-boilerplate",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A setup for a project that uses Sass and ES6 with Webpack",
   "main": "webpack.config.js",
   "scripts": {
@@ -10,12 +10,14 @@
   "author": "Mateusz Górzański",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^7.2.6",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
     "css-loader": "^0.28.9",
     "extract-text-webpack-plugin": "^3.0.2",
     "node-sass": "^4.7.2",
+    "postcss-loader": "^2.1.0",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.20.1",
     "webpack": "^3.10.0"

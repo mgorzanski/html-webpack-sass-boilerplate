@@ -8,6 +8,7 @@ This project will give you a basic setup for a website or application.
  - Converts all JavaScript to ES5
  - Minimizes JavaScript and CSS files
  - Converts SASS files to CSS file
+ - Autoprefixer that automatically adds css prefixes
 
 The `src/index.js` file is an entry point. You should import all of your files there. The `public/index.html` file provide basic template that you can edit at your own choice.
 
